@@ -1,2 +1,1 @@
-# ReadPDF-AtividadeRural
- Extracting data from pdf using PyPDF2 and RE then comparing with data from a text file - Both from the program "Atividade Rural"
+Comparing pandas DataFrames created using data extracted using PyPDF2, re and pyautogui - Archives obtained from "AtividadeRural"
